@@ -1,4 +1,4 @@
-## VisionLabs test task
+
 
 Метрики на валидации:
 | Organ    | Dice Score             |
